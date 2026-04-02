@@ -1,5 +1,3 @@
-# hw1-MingyuGao
-generative ai
 # Homework 1: Coding Assistant Onboarding
 
 This repository contains my work for Homework 1. It demonstrates how I used a coding assistant to generate a draft, manually edited the content, and tracked my work using GitHub.
