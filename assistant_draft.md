@@ -8,13 +8,14 @@ One area I care about is business intelligence in organizations. Many companies 
 - It can assist with drafting reports, dashboard explanations, and business presentations.
 - It can support brainstorming by suggesting questions, metrics, and possible insights to investigate.
 
+
 ## Note
 
-**Exact prompt used:**  
-Please create content for a markdown file called assistant_draft.md. Requirements: add a short title, one short paragraph introducing me as a graduate student, one short paragraph describing an industry, function, or problem area I care about, one short bullet list of 3 ways generative AI might be useful in that area, and a short note describing the prompt, what the assistant did well, and what needed clarification. Keep the writing simple and natural. My background: I am a graduate student interested in business intelligence, data analysis, dashboards, and practical uses of AI in decision-making.
+**Exact prompt used (approximation):**  
+I asked the coding assistant to create a markdown draft with a short title, a brief introduction about me as a graduate student, a short paragraph describing a problem area I care about, and a bullet list of three ways generative AI can be useful in that area. I also asked it to include a short note describing the prompt and reflection.
 
 **What the assistant did well:**  
-The assistant gave me a clear structure and kept the writing concise. It also matched the topic to my academic interests.
+The assistant provided a clear structure and organized the content in a logical way. It also generated relevant ideas related to business intelligence and data analysis.
 
 **What I needed to clarify or adjust:**  
-I needed to make the writing a little more specific to my own background. Some parts were slightly generic, so I planned to revise them in my final version.
+Some parts of the content were too general, so I planned to revise them to better match my own background and make the writing more specific.
